@@ -1,4 +1,5 @@
-import sys, psycopg2
+import sys
+import psycopg2
 from PyQt5.QtWidgets import (QApplication,QWidget,QAbstractScrollArea,QVBoxLayout,QHBoxLayout,
                              QTableWidgetItem,QGroupBox,QPushButton,QMessageBox,QTableWidget,QTabWidget)
 
